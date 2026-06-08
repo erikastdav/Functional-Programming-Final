@@ -1,7 +1,9 @@
 ---
-title: "EDLD653_Final"
+title: "Functional Programming (EDLD653) Final"
 author: "Erika Davis"
-format: html
+format: 
+  html:
+    embed-resources: true
 editor: visual
 ---
 
